@@ -17,15 +17,6 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 uglyURLs = true
 canonifyURLs = true
 
-defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
-[languages]
-  [languages.en]
-    contentDir = 'content/en'
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    weight = 1
 
 [permalinks]
     page = "/:slug/"
