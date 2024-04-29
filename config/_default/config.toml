@@ -22,7 +22,6 @@ canonifyURLs = true
     page = "/:slug/"
     blog = "/:slug/"
     tags = "/:slug/"
-    categories = "/:slug/"
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
