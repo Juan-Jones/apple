@@ -21,7 +21,6 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
     tags = '/:slug/'
   [permalinks.page]
     page = "/:slug/"
-  [permalinks.section]
     blog = "/:slug/"
 ############################# Modules ##############################
 [module]
