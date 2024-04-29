@@ -15,7 +15,5 @@
   Referrer-Policy = "same-origin"
   Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
 
-  [[redirects]]
-  from = "/api/*"
-  to = "https://friendly-froyo-905729.netlify.app/:splat"
-  status = 200
+ [build.processing]
+  skip_processing = true

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on AICurious | Let&#39;s power your next project with AI</title>
-    <link>/en/blog.html</link>
+    <link>/en/blog/</link>
     <description>Recent content in Blog on AICurious | Let&#39;s power your next project with AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -17,16 +17,16 @@
     </item>
     <item>
       <title>Artificial Intelligence and Robotics In A Nutshell</title>
-      <link>/en/blog/blog/post-1.html</link>
+      <link>/en/blog/blog/post-1/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      <guid>/en/blog/blog/post-1.html</guid>
+      <guid>/en/blog/blog/post-1/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     <item>
       <title>Artificial Intelligence and Robotics In A Nutshell</title>
-      <link>/en/blog/blog/post-2.html</link>
+      <link>/en/blog/blog/post-2/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      <guid>/en/blog/blog/post-2.html</guid>
+      <guid>/en/blog/blog/post-2/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
   </channel>
