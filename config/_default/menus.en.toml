@@ -1,4 +1,4 @@
-############# English navigation#############
+############# English navigation ##############
 
 # main menu
 [[main]]
@@ -28,18 +28,35 @@
     url = "/contact/"
     weight = -10
 
-  [[main]]
-    parent = "Links"
-    name = "Tags"
-    url = "tags/"
-    weight = 1
+  # [[main]]
+  #   parent = "Links"
+  #   name = "Tags"
+  #   url = "tags/"
+  #   weight = 1
+
+  # [[main]]
+  #   parent = "Links"
+  #   name = "Categories"
+  #   url = "categories/"
+  #   weight = 2
 
   [[main]]
+    name = "Daisykit Project"
+    url = "https://daisykit.org"
     parent = "Links"
-    name = "Categories"
-    url = "/categories/"
-    weight = 2
+    weight = 10
 
+  [[main]]
+    name = "VNOpenAI Team"
+    url = "https://vnopenai.github.io"
+    parent = "Links"
+    weight = 20
+
+  [[main]]
+    name = "VIA - Vietnam Autonomous"
+    url = "https://via.makerviet.org"
+    parent = "Links"
+    weight = 30
 
 
 # footer menu
@@ -50,15 +67,15 @@ weight = 1
 
 [[footer]]
 name = "About"
-url = "/about/"
+url = "about/"
 weight = 2
 
 [[footer]]
 name = "Contact"
-url = "/contact/"
+url = "contact/"
 weight = 3
 
 [[footer]]
 name = "Privacy Policy"
-url = "/privacy-policy/"
+url = "privacy-policy/"
 weight = 4
