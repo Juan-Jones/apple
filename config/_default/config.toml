@@ -14,10 +14,15 @@ googleAnalytics = "" # example: UA-123-45, for more info, read the article https
 # disqusShortname = "aicurious" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ["fr"] # example: ["fr"] for disable french language
+uglyURLs = true
+canonifyURLs = true
+
 
 [permalinks]
     page = "/:slug/"
     blog = "/:slug/"
+    tags = "/:slug/"
+    categories = "/:slug/"
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
