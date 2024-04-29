@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>/en/blog/post-1.html</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>/en/blog/blog/post-2.html</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>/en/blog.html</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>/categories.html</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>/en.html</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>/categories/programming/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>/about.html</loc>
+  </url><url>
+    <loc>/contact.html</loc>
+  </url><url>
+    <loc>/search.html</loc>
+  </url><url>
+    <loc>/tags.html</loc>
+  </url>
+</urlset>
