@@ -19,10 +19,10 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
   [permalinks.term]
     categories = '/:slug/'
     tags = '/:slug/'
-  page = "/:slug/"
-  blog = "/:slug/"
-
-
+  [permalinks.page]
+    page = "/:slug/"
+  [permalinks.section]
+    blog = "/:slug/"
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]

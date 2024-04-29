@@ -10,9 +10,9 @@
     <atom:link href="https://aicurious.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>programming</title>
-      <link>https://aicurious.io/categories/programming/</link>
+      <link>https://aicurious.io/programming/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      <guid>https://aicurious.io/categories/programming/</guid>
+      <guid>https://aicurious.io/programming/</guid>
       <description></description>
     </item>
   </channel>
