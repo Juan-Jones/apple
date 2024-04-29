@@ -17,11 +17,7 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 canonifyURLs = true
 
 
-[permalinks]
-    page = "/:slug/"
-    blog = "/:slug/"
-    tags = "/:slug/"
-    categories = "/:slug/"
+
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
