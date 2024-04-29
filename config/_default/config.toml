@@ -26,11 +26,6 @@ defaultContentLanguageInSubdir = true
     languageDirection = 'ltr'
     languageName = 'English'
     weight = 1
-    [languages.en.permalinks]
-      [languages.en.permalinks.page]
-        blog = '/blog/:slug/'
-      [languages.en.permalinks.section]
-        blog = '/blog/'
 
 [permalinks]
     page = "/:slug/"
